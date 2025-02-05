@@ -1,1 +1,3 @@
 # bank_database_using_mysql
+A bank database in MySQL is designed to manage and store financial data efficiently. It typically includes tables for customer details (name, contact, address), accounts (account number, type, balance), transactions (transaction ID, amount, date, type), and loans (loan ID, amount, interest rate). MySQL ensures data integrity through primary keys (e.g., account number) and foreign keys to link related tables. It supports CRUD operations (Create, Read, Update, Delete) for managing records. Security is enhanced using encryption and user privileges. Queries can retrieve data like account balances, transaction history, or loan details, making it a robust system for banking operations.
+
